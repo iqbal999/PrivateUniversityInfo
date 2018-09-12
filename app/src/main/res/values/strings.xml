@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Private University Info</string>
+
+    <string-array name="ctg_uni_list">
+        <item>Bangladesh Army International University of Science &amp; Technology(BAIUST) ,Comilla</item>
+        <item>BGC Trust University Bangladesh</item>
+        <item>Britannia University</item>
+        <item>CCN University of Science &amp; Technology</item>
+        <item>Chittagong Independent University</item>
+        <item>Cox\'s Bazar International University</item>
+        <item>East Delta University</item>
+        <item>Fareast International University</item>
+        <item>Feni University</item>
+        <item>International Islamic University Chittagong</item>
+        <item>Port City International University</item>
+        <item>Premier University </item>
+        <item>Southern University Bangladesh </item>
+        <item>University of Science &amp; Technology Chittagong</item>
+
+
+    </string-array>
+
+    <string-array name="dhk_uni_list">
+
+        <item>Ahsanullah University of Science and Technology</item>
+        <item>American International University-Bangladesh</item>
+        <item>Anwer Khan Modern University</item>
+        <item>Asian University of Bangladesh</item>
+        <item>ASA University Bangladesh</item>
+        <item>Atish Dipankar University of Science &amp; Technology</item>
+        <item>Bangladesh Islami University	</item>
+        <item>Bangladesh University</item>
+        <item>Bangladesh University of Business &amp; Technology</item>
+        <item>Bangladesh University of Health Sciences</item>
+        <item>BRAC University</item>
+        <item>Canadian University of Bangladesh</item>
+        <item>Central Women\'s University</item>
+        <item>City University</item>
+        <item>Daffodil International University</item>
+        <item>Dhaka International University</item>
+        <item>East West University</item>
+        <item>Eastern University</item>
+        <item>European University of Bangladesh</item>
+        <item>German University Bangladesh</item>
+        <item>Gono Bishwabidyalay</item>
+        <item>Green University of Bangladesh</item>
+        <item>Hamdard University Bangladesh</item>
+        <item>IBAIS University </item>
+        <item>Independent University, Bangladesh</item>
+        <item>International University of Business Agriculture &amp; Technology</item>
+        <item>Ishakha International University, Bangladesh	</item>
+        <item>Manarat International University</item>
+        <item>Notre Dame University Bangladesh</item>
+        <item>North South University</item>
+        <item>Northern University Bangladesh</item>
+        <item>N.P.I University of Bangladesh</item>
+        <item>Presidency University</item>
+        <item>Prime University</item>
+        <item>Primeasia University</item>
+        <item>Queens University</item>
+        <item>Ranada Prasad Shaha University</item>
+        <item>Royal University of Dhaka</item>
+        <item>Shanto-Mariam University of Creative Technology</item>
+        <item>Sheikh Fazilatunnesa Mujib University</item>
+        <item>Sonargaon University</item>
+        <item>Stamford University Bangladesh</item>
+        <item>State University of Bangladesh</item>
+        <item>The International University of Scholars</item>
+        <item>The Millennium University</item>
+        <item>Times University, Bangladesh</item>
+        <item>The People\'s University of Bangladesh</item>
+        <item>The University of Asia Pacific</item>
+        <item>United International University</item>
+        <item>University of Development Alternative</item>
+        <item>University of Information Technology &amp; Sciences</item>
+        <item>University of Liberal Arts Bangladesh</item>
+        <item>University of South Asia </item>
+        <item>Uttara University</item>
+        <item>Victoria University of Bangladesh</item>
+        <item>World University of Bangladesh</item>
+        <item>Z.H Sikder University of Science &amp; Technology</item>
+
+
+    </string-array>
+
+    <string-array name="raj_uni_list">
+        <item>Army University of Engineering and Technology (BAUET), Qadirabad</item>
+        <item>BGMEA University of Fashion &amp; Technology(BUFT)</item>
+        <item>Exim Bank Agricultural University, Bangladesh</item>
+        <item>North Bengal International University</item>
+        <item>Pundra University of Science &amp; Technology	</item>
+        <item>Rajshahi Science &amp; Technology University (RSTU), Natore</item>
+
+    </string-array>
+
+    <string-array name="syl_uni_list">
+        <item>Leading University</item>
+        <item>Metropolitan University</item>
+        <item>North East University Bangladesh</item>
+        <item>Southeast University</item>
+        <item>Sylhet International University</item>
+
+    </string-array>
+
+    <string-array name="bar_uni_list">
+        <item>Global University Bangladesh</item>
+        <item>University of Global Village</item>
+
+    </string-array>
+
+    <string-array name="khu_uni_list">
+        <item>First Capital University of Bangladesh</item>
+        <item>Khwaja Yunus Ali University</item>
+        <item>North Western University</item>
+
+    </string-array>
+
+    <string-array name="rang_uni_list">
+        <item>Bangladesh Army University of Science and Technology(BAUST), Saidpur</item>
+        <item>Varendra University</item>
+
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Faculty &amp; Subject</string>
+    <string name="tab_text_2">Tution Fees</string>
+    <string name="tab_text_3">Admission Information</string>
+    <string name="tab_text_4">Contact</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
