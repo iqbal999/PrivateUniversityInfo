@@ -71,9 +71,11 @@ public class UniversityList extends AppCompatActivity {
         arrayAdapter = new ArrayAdapter<String>(UniversityList.this, R.layout.itemview, R.id.textView, university_list);
         listView.setAdapter(arrayAdapter);
 
+
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+
                 jsonParse(div, position);
             }
         });
